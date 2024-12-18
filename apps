@@ -1,0 +1,66 @@
+<html>
+<head>
+  </head>
+  <body>
+    <ul>
+      <li> <a href="index.html"> Home</a></li>
+      <li> <a href="apps.html"> Designs</a></li>
+    
+      </ul>
+<center>
+  <br>
+  <br>
+  
+    <h3> Student Projects </h3>
+    
+<iframe width="392" height="620" style="border: 0px;" src="https://studio.code.org/projects/applab/nbSUvzGQbcfVpyoxAm1rd8r7UJWHZtOuGU_9X8U_L2H/embed?nosource"></iframe>
+  
+  <iframe width="392" height="620" style="border: 0px;" src="https://studio.code.org/projects/applab/dq210hUnLEK1eSBTdS2wRNTMaKT1EnN5ZMkQUeydiRO/embed?nosource"></iframe>
+
+<iframe width="392" height="620" style="border: 0px;" src="https://studio.code.org/projects/applab/ojRexG-d6IFZLICHpO5Py9yuMROlJPiNfXeyNRdZ3-k/embed?nosource"></iframe>
+  
+  <iframe width="392" height="620" style="border: 0px;" src="https://studio.code.org/projects/applab/RmOo8uDASnVwlMfhS5Oy6ScTaVDrkAFCggQrGKKminf/embed?nosource"></iframe>
+  
+  <iframe width="392" height="620" style="border: 0px;" src="https://studio.code.org/projects/applab/rFlzHydwkS96nq9F_0oFLAXxxb8GWQDvQlu7s_wgTKs/embed?nosource"></iframe>
+  
+  <iframe width="392" height="620" style="border: 0px;" src="https://studio.code.org/projects/applab/fVtJ9zhPqeO3CPCNS2PrQQBbMx7_d4YsBm--fXL52bs/embed?nosource"></iframe>
+</html>
+
+<style>
+ul{
+  list-style-type: none;
+  background-color: green;
+  width: 100%;
+  left: 0;
+  top: 0;
+  position: fixed;
+  padding: 10px;
+  opacity: .8;
+  margin: 0;
+  
+}
+
+li {
+  display: inline;
+  padding: 10px 10px
+}
+
+a{
+  color: white;
+  font-family: Garamond, serif;
+}
+
+a:hover {
+  background-color: black;
+  color: green;
+}
+
+body{
+  background-color: #C6373C
+}
+
+h3 {
+  color: green;
+  font-size: 30px;
+}
+</style>
